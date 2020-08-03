@@ -1,7 +1,7 @@
 #changing working directory
 import os
 os.getcwd()
-#os.chdir('/Applications/Programming/ML/ML_Udemy/Machine Learning A-Z (Codes and Datasets)/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)')
+#os.chdir('/Applications/Programming/ML/ANN')
 
 import pandas as pd
 #url = 'https://raw.githubusercontent.com/Swapnil216/Umy_ANN/master/Churn_Modelling.csv?token=ANSIXWD3IUKB2P5Y7G5TKVC6VO6RG'
